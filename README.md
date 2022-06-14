@@ -1,1 +1,1 @@
-# Why-You-Should-Get-A-Pc- This is just a project that I am passionate about and I love to do. I am quite new to coding so I do not have the best code at the moment. It's just practise for me right now. Right now I am just researching some more things to add to my webpage. 
+# Why-You-Should-Get-A-Gaming-Pc- This is just a project that I am passionate about and I love to do. I am quite new to coding so I do not have the best code at the moment. It's just practise for me right now. Right now I am just researching some more things to add to my webpage. 
